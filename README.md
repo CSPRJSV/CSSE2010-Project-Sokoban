@@ -1,6 +1,6 @@
 # CSSE2010-Project-Sokoban
 # ✅ 顶级大神，在线辅导 | 1v1 远程 | 助攻 | VIP 定制
-# ✅ Lecture 同步辅导 | assignment 专题辅导 | Test Prep | 挂科重修 One Last Chance
+# ✅ Lecture 同步辅导 | Assignment 专题辅导 | Test Prep | 挂科重修 One Last Chance
 # 🚀 源头导师 | 科班出身 | TOEFL 115 | 非中介❌甩单转介绍 ！
 # 🚀 职业道德 | 亲力亲为 | 全程手打原创 | 可 coaching oral interview 口试抽检 | 严厉拒绝❌一份多售
 # 👉 Wechat: csprojhelp ⚠ 加我备注: github ⚠ Remark to Pass Your Friend Request: github 
