@@ -21,3 +21,7 @@
 =======================================================
 
 需要答疑或者 VIP 服务的童鞋欢迎 DD ，懂的都懂
+
+![1](https://github.com/CSPRJSV/CSSE2010-Project-Sokoban/blob/main/1.jpg)
+![2](https://github.com/CSPRJSV/CSSE2010-Project-Sokoban/blob/main/2.jpg)
+![3](https://github.com/CSPRJSV/CSSE2010-Project-Sokoban/blob/main/3.jpg)
